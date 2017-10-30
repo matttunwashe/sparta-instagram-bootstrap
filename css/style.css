@@ -1,35 +1,35 @@
-body{
+body
+{
   background-color: #b3b6bc;
   font-family: Arial;
 }
 
-.wrap{
-  width: 900px;
-  margin: auto;
-}
-
-main{
+main
+{
   padding-top: 90px;
   display: inline-block;
   float: right;
 }
 
-main img{
+main img
+{
   margin-bottom: 100px;
-
 }
 
-aside{
+aside
+{
   display: inline-block;
   text-align: center;
   width: 400px;
 }
 
-.right-container{
+.right-container
+{
   padding: 5px;
 }
 
-.form{
+.form
+{
   border: 1px #e6e6e6 solid;
   background-color: white;
   text-align: center;
@@ -37,7 +37,8 @@ aside{
   padding: 30px;
 }
 
-button{
+button
+{
   background: #3897f0;
   border-color: #3897f0;
   color: #fff;
@@ -45,23 +46,26 @@ button{
   max-width: 100%;
   width: 300px;
   color: white;
-
 }
 
 
-.or hr{
+.or
+hr{
   width: 20%;
 }
 
-.left-side{
+.left-side
+{
   float: left;
 }
 
-.right-side{
+.right-side
+{
   float: right;
 }
 
-input{
+input
+{
   width: 300px;
   background-color: #fafafa;
   margin: auto;
@@ -71,23 +75,27 @@ input{
   font-size: 14px;
 }
 
-#sign-up{
+#sign-up
+{
   font-weight: bold;
 
 }
 
-.login-btn{
+.login-btn
+{
   border: 1px e6e6e6 solid;
   background-color: white;
   margin-top: 10px;
   padding: 10px;
 }
 
-#login-color-btn{
+#login-color-btn
+{
   color: #3896f1;
 }
 
-li{
+li
+{
   display: inline-block;
   text-transform: uppercase;
   padding: 5px;
@@ -95,20 +103,19 @@ li{
   text-align: left;
   font-size: 14px;
   font-weight: 600;
-
 }
 
-a, a:visited{
+a, a:visited
+{
   color: #003569;
   text-decoration: none;
 }
 
-#copyright{
+#copyright
+{
   float: right;
   color: #999999
 }
-
-
 
 .footer-container
 {
