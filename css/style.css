@@ -1,0 +1,123 @@
+body
+{
+  background-color: #b3b6bc;
+  font-family: Arial;
+}
+
+main
+{
+  padding-top: 90px;
+  display: inline-block;
+  float: right;
+}
+
+main img
+{
+  margin-bottom: 100px;
+}
+
+aside
+{
+  display: inline-block;
+  text-align: center;
+  width: 400px;
+}
+
+.right-container
+{
+  padding: 5px;
+}
+
+.form
+{
+  border: 1px #e6e6e6 solid;
+  background-color: white;
+  text-align: center;
+  color: #999999;
+  padding: 30px;
+}
+
+button
+{
+  background: #3897f0;
+  border-color: #3897f0;
+  color: #fff;
+  padding: 10px;
+  max-width: 100%;
+  width: 300px;
+  color: white;
+}
+
+
+.or
+hr{
+  width: 20%;
+}
+
+.left-side
+{
+  float: left;
+}
+
+.right-side
+{
+  float: right;
+}
+
+input
+{
+  width: 300px;
+  background-color: #fafafa;
+  margin: auto;
+  border: 1px #e6e6e6 solid;
+  height: 30px;
+  margin: 10px;
+  font-size: 14px;
+}
+
+#sign-up
+{
+  font-weight: bold;
+
+}
+
+.login-btn
+{
+  border: 1px e6e6e6 solid;
+  background-color: white;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+#login-color-btn
+{
+  color: #3896f1;
+}
+
+li
+{
+  display: inline-block;
+  text-transform: uppercase;
+  padding: 5px;
+  margin: 0px;
+  text-align: left;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+a, a:visited
+{
+  color: #003569;
+  text-decoration: none;
+}
+
+#copyright
+{
+  float: right;
+  color: #999999
+}
+
+.footer-container
+{
+  padding-right: 300px;
+}
