@@ -27,18 +27,14 @@
 
 .image
 {
-  background-color: #e6e6e6;
   float: center;
 }
 
-#row-six{
+/*#row-six{
   background-color: yellow;
   float: center;
-}
+}*/
 
-#row-seven{
-  background-color: white;
-}
 
 body{
   background-color: #b3b6bc;
