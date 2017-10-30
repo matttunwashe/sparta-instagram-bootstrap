@@ -25,10 +25,12 @@
 
 
 
-#row-five{
-  background-color: aqua;
+.image
+{
+  background-color: #e6e6e6;
   float: center;
 }
+
 #row-six{
   background-color: yellow;
   float: center;
