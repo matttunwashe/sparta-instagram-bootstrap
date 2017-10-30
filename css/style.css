@@ -25,7 +25,7 @@ aside{
   width: 400px;
 }
 
-.right{
+.right-container{
   padding: 5px;
 }
 
@@ -48,22 +48,16 @@ button{
 
 }
 
-.divider{
-  width: 300px;
-  text-align: center;
-  margin: auto;
-  padding: 10px;
+
+.or hr{
+  width: 20%;
 }
 
-.seperate hr{
-  width: 40%
-}
-
-.left{
+.left-side{
   float: left;
 }
 
-.right2{
+.right-side{
   float: right;
 }
 
@@ -77,17 +71,19 @@ input{
   font-size: 14px;
 }
 
-#difference{
+#sign-up{
   font-weight: bold;
+
 }
 
-.login{
+.login-btn{
   border: 1px e6e6e6 solid;
   background-color: white;
   margin-top: 10px;
+  padding: 10px;
 }
 
-#logincolor{
+#login-color-btn{
   color: #3896f1;
 }
 
